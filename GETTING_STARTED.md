@@ -25,18 +25,19 @@ Your portfolio repository is now fully structured and ready for development! Her
 
 ### Week 1: Foundation Setup
 1. **Review and customize documentation**
-   - Update `README.md` with your specific goals
-   - Modify `docs/career-development-plan.md` dates and objectives
-   - Personalize `resume/skills-matrix.md` with current skill levels
+   - Update `README.md` with your specific goals [](README.md)
+   - Modify `docs/career-development-plan.md` dates and objectives [](career-development-plan.md)
+   - Personalize `resume/skills-matrix.md` with current skill levels [](resume/skills-matrix.md)
+      
 
 2. **Choose your first project**
-   - Start with `projects/healthcare-analytics/` 
+   - Start with `projects/healthcare-analytics/` [](projects/healthcare-analytics/README.md)
    - Find a healthcare dataset (suggestions below)
    - Begin the data collection phase
 
 ### Week 2: First Analysis
 3. **Complete your first learning exercise**
-   - Use `notebooks/learning-exercises/healthcare_analysis_exercise_1.md`
+   - Use `notebooks/learning-exercises/healthcare_analysis_exercise_1.md` [](notebooks/learning-exercises/healthcare_analysis_exercise_1.md)
    - Practice with the Python utilities we created
    - Document your learning process
 
