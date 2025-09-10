@@ -1,0 +1,21 @@
+{
+  "generated_date": "2025-09-10T05:02:08.601664",
+  "total_certifications": 1,
+  "total_skills": 0,
+  "certifications": [
+    {
+      "name": "Microsoft Power BI Data Analyst Professional",
+      "platform": "Coursera",
+      "status": "In Progress",
+      "target_date": "2025-10-01 00:00:00",
+      "skills_count": 0,
+      "estimated_hours": 80,
+      "priority": "High"
+    }
+  ],
+  "quarterly_plan": {
+    "2025Q4": {
+      "certifications": [
+        "Microsoft Power BI Data Analyst Professional"
+      ],
+      "total_skills": 

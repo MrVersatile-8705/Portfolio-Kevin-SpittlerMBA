@@ -1,0 +1,89 @@
+{
+  "certifications": [
+    {
+      "certification": "Google Data Analytics Professional",
+      "platform": "Coursera",
+      "status": "Planned",
+      "target_date": "January 2026",
+      "progress_percent": 0,
+      "skills_count": 0,
+      "has_study_guide": false,
+      "study_guide_url": NaN
+    },
+    {
+      "certification": "Microsoft Power BI Data Analyst Professional Certificate",
+      "platform": "Coursera",
+      "status": "In Progress",
+      "target_date": "October 2025",
+      "progress_percent": 50,
+      "skills_count": 0,
+      "has_study_guide": true,
+      "study_guide_url": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300"
+    },
+    {
+      "certification": "Azure Data Engineer Associate",
+      "platform": "Microsoft Learn",
+      "status": "Planned",
+      "target_date": "May 2025",
+      "progress_percent": 0,
+      "skills_count": 0,
+      "has_study_guide": false,
+      "study_guide_url": NaN
+    },
+    {
+      "certification": "Python for Data Science",
+      "platform": "Coursera",
+      "status": "Planned",
+      "target_date": "April 2025",
+      "progress_percent": 0,
+      "skills_count": 0,
+      "has_study_guide": false,
+      "study_guide_url": NaN
+    },
+    {
+      "certification": "Tableau Desktop Specialist",
+      "platform": "Tableau",
+      "status": "Completed",
+      "target_date": "January 2021",
+      "progress_percent": 100,
+      "skills_count": 0,
+      "has_study_guide": false,
+      "study_guide_url": NaN
+    },
+    {
+      "certification": "dbt Fundamentals",
+      "platform": "dbt Labs",
+      "status": "Planned",
+      "target_date": "November 2025",
+      "progress_percent": 0,
+      "skills_count": 0,
+      "has_study_guide": false,
+      "study_guide_url": NaN
+    },
+    {
+      "certification": "Microsoft Generative AI for Data Analysis Professional Certificate",
+      "platform": "Coursera",
+      "status": "Planned",
+      "target_date": "December 2025",
+      "progress_percent": 0,
+      "skills_count": 0,
+      "has_study_guide": false,
+      "study_guide_url": NaN
+    }
+  ],
+  "summary": {
+    "total": 7,
+    "completed": 1,
+    "in_progress": 1,
+    "planned": 5,
+    "with_study_guides": 1,
+    "total_skills": 0
+  },
+  "platforms": {
+    "Coursera": 4,
+    "Microsoft Learn": 1,
+    "Tableau": 1,
+    "dbt Labs": 1
+  },
+  "generated_date": "2025-09-10 05:10"
+}

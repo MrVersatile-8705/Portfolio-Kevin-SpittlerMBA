@@ -1,0 +1,10 @@
+STUDY GUIDE: Microsoft Power BI Data Analyst (PL-300)
+============================================================
+
+Source: https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300
+Scraped: 2025-09-10T05:00:45.248921
+
+EXAM DETAILS
+----------------------------------------
+• duration: 30 minutes
+
