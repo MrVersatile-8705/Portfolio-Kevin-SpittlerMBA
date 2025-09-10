@@ -1,0 +1,34 @@
+
+📊 CERTIFICATION PORTFOLIO SUMMARY
+==================================================
+
+📈 PROGRESS OVERVIEW:
+• Total Certifications: 6
+• Completed: 1 (16.7%)
+• In Progress: 2 (33.3%)
+• Planned: 3 (50.0%)
+• Average Progress: 35.8%
+
+📅 TIMELINE:
+• Next Target: March 2025
+
+🏢 PLATFORMS:
+Platform
+Coursera           3
+Microsoft Learn    1
+Tableau            1
+dbt Labs           1
+
+📚 CATEGORIES:
+Category
+Analytics        2
+Engineering      2
+Programming      1
+Visualization    1
+
+🎯 RECOMMENDATIONS:
+• Focus on completing in-progress certifications first
+• Consider prioritizing high-value certifications
+• Plan learning schedule around target dates
+
+Generated: 2025-09-10 04:20
