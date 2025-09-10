@@ -1,6 +1,7 @@
 # Learning Roadmap & Progress Tracker
 
-## Current Learning Focus (Q1 2025)
+## Current Learning Focus (Q4 2025)
+- **Preparing Data for Analysis in Microsoft Excel** (Coursera) - *Active*
 - Google Data Analytics Professional Certificate (Coursera)
 - Azure Data Engineer Associate (Microsoft Learn)
 - Python for Data Science (Coursera)
@@ -9,11 +10,11 @@
 
 ## Weekly Learning Schedule
 - Monday: Azure fundamentals
-- Tuesday: Google Analytics certification
-- Wednesday: Python practice
+- Tuesday: Excel data preparation exercises (Coursera course)
+- Wednesday: Python practice and Power BI integration
 - Thursday: Tableau skill development
-- Friday: Industry reading
-- Weekend: Projects and portfolio
+- Friday: Industry reading and LinkedIn engagement
+- Weekend: Projects and portfolio (Excel-to-Power BI workflow)
 
 ## Resource Library
 - Books: "Storytelling with Data", "Python for Data Analysis"

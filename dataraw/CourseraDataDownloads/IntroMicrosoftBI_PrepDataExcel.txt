@@ -1,0 +1,50 @@
+Have you ever faced the challenge
+of making decisions or providing insights based
+on large amounts of data? This can be quite a daunting task, especially if the data is
+difficult to read and understand. Fortunately, you've come
+to the right place. This course on Preparing Data for Analysis
+in Microsoft Excel will equip you with the skills you need to work
+with large blocks of data and make it easier to read and understand. Data analysis is a process that involves
+defining the purpose of the data, gathering, cleaning, and
+analyzing it to gain insights. Businesses often use data
+analysis to obtain usable, relevant information that can assist them
+in making educated business decisions. However, this is usually done with large
+amounts of data that you need to cleanse, transform, and analyze. You will often have to present
+this data in charts, tables, and graphs that provide relevant insights. Your data insights will help organizations
+to lessen the risks associated with making business decisions. Microsoft Excel can assist you in
+analyzing data for your business, and you don't need an IT related
+qualification to do this. The Preparing Data for Analysis with
+Microsoft Excel course is designed for anybody that's interested in
+learning about preparing data for analysis within a business context. It also establishes a foundation for anyone striving to have
+a career in data analytics. Through data analytics in Excel,
+you'll be able to collect, store, and delve deeper into your business's data. You'll also learn to harness the power of
+data using tools for sourcing, gathering, transforming, and analyzing data. Now, let's go over a brief overview
+of what you will learn over the next few weeks. To kickstart your learning journey,
+you'll discovered the fundamental and essential Microsoft Excel elements and
+techniques for creating workbook content. These techniques include entering,
+formatting, managing and adding data to worksheets. You'll then learn how to read large
+blocks of data and review the steps for sorting and filtering data in Excel. Next, you'll discover
+how to use formulas and functions to perform
+calculations in Excel. Then you'll learn how to prepare data for
+analysis using functions. You'll explore functions
+that are used to clean or standardize text to prepare it for
+effective analysis. You'll then investigate the use of date
+and time functions in Excel so that you can complete actions like creating
+timeline information in a spreadsheet. You'll also review the use of
+logical functions like IF and IFS. And you'll learn how to use these logical
+functions to generate content like data columns. In the last module,
+you'll undertake a final project. In this project, you'll create
+a worksheet with an executive summary of a business's month by month profit margin
+performance compared to the previous year. This project will help to prepare you for the final capstone project
+at the end of this program. Finally, you'll have the chance to
+recap on what you've learned and focus on areas you feel
+you can improve upon. Throughout the course, you will encounter
+many videos that will gradually guide you toward a solid understanding of
+preparing data for analysis. Watch, pause, rewind, and rewatch the videos until you're
+confident in your skills. Then consolidate your knowledge by
+consulting the course readings and measuring your understanding of key
+topics by completing the different knowledge checks and quizzes. This will set you on your way toward a
+career in data analytics and form part of your preparation to take the PL 300,
+Microsoft Power BI, Data Analyst exam. By the end of the course, you'll be
+equipped with the necessary skills to work effectively with data in Microsoft Excel. Good luck as you start this
+exciting learning journey.
